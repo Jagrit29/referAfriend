@@ -4,7 +4,7 @@ label
     font-size: 13px!important;
     line-height: 20px!important;
     letter-spacing: .05em!important;
-    text-transform: uppercase;
+    text-transform: capitalize;
     color: #666666;
 }
 #title
