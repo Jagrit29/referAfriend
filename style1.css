@@ -1,7 +1,7 @@
 label
 {
-    font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif!important;
-    font-size: 13px!important;
+    font-family: Lora ,serif!important;
+    font-size: 17px!important;
     line-height: 20px!important;
     letter-spacing: .05em!important;
     text-transform: capitalize;
@@ -9,8 +9,8 @@ label
 }
 #title
 {
-    font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif!important;
-    font-size: 19px!important;
+    font-family: Lora ,serif!important;
+    font-size: 22px!important;
     font-weight: 700!important;
     line-height: 24px!important;
     letter-spacing: -.29px!important;
