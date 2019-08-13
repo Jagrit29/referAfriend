@@ -10,7 +10,7 @@ label
 #title
 {
     font-family: Lora ,serif!important;
-    font-size: 22px!important;
+    font-size: 25px!important;
     font-weight: 700!important;
     line-height: 24px!important;
     letter-spacing: -.29px!important;
@@ -19,7 +19,8 @@ label
 }
 span
 {
-    font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif!important;
+    font-family: lora , serif;
+    font-size: 20px;
 }
 .content
 {
@@ -28,12 +29,17 @@ span
 }
 p
 {
-    font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif!important;
+    font-family: lora , serif;
     padding: 5px;
+    font-size: 20px;
     
 }
 .btn
 {
     background-color: #fe6625;
     border-color: #fe6625;
+}
+.p
+{
+    font-family: 
 }
